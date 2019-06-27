@@ -13,3 +13,8 @@ fourth commit directly into master
 # After release-v4
 
 fifth commit directly into master
+
+# After release-v5
+
+I've switched the `default branch` for this repository to 
+`develop`.
