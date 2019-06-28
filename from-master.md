@@ -18,3 +18,5 @@ fifth commit directly into master
 
 I've switched the `default branch` for this repository to 
 `develop`.
+
+`master` is being modified using the command line flow.
